@@ -1,0 +1,15 @@
+{
+  "name": "algoritma-genetika",
+  "version": "1.0.0",
+  "description": "Implementasi algoritma genetika menggunakan Node.js",
+  "main": "index.js",
+  "repository": "git@github.com:amyisme13/algoritma-genetika.git",
+  "author": "Azmi Makarima <amy.azmim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "2.7.0"
+  }
+}
